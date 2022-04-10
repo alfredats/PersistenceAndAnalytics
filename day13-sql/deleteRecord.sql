@@ -1,0 +1,1 @@
+DELETE FROM address_book.bff WHERE name = 'twinky winky';
